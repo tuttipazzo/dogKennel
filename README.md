@@ -2,7 +2,7 @@
 Python Class final project that demonstrates use of UI &amp; DB modules. 
 
 To run on linux:
-cd <where you unpacked the zip file>
+
 python3 ./ui.pl
 
 To run on Windows:
